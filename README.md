@@ -1,6 +1,8 @@
 # MCA (ACM) — Projet Loisirs
 
 Ce projet reproduit en Python l'analyse MCA du script R fourni avec visualisations complètes.
+![Analyse MCA](images/output.png)
+![Autre graphique](images/output1.png)
 
 ## Contenu
 
